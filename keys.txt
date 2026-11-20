@@ -1,0 +1,7 @@
+# LSAV Decryptor - extra decryption keys
+#
+# One key per line: 32 hex characters (16 bytes). Text after # is a comment.
+# The default MIUI Global Gallery key is built in, so it is not needed here:
+#   3082046c30820354a003020102020900   (fingerprint 3e751332435bfad27569ca4efed1b602)
+# Key tools in the main menu add keys here automatically.
+
