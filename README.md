@@ -6,27 +6,6 @@ Recover the photos (`.lsa`) and videos (`.lsav`) that Xiaomi, Redmi and POCO pho
   <img src="preview.jpg" alt="" />
 </div>
 
-
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │  LSAV DECRYPTOR                                      v1.1.0  │
-  │  Recover MIUI / HyperOS Secret Album photos and videos       │
-  │  Free  .  offline  .  nothing leaves your PC                 │
-  ├──────────────────────────────────────────────────────────────┤
-  │  Guide   blog.denniskabui.com/writing/decrypting-miui-cloud  │
-  │  Source  github.com/MurageKabui/LSAV-Decryptor               │
-  └──────────────────────────────────────────────────────────────┘
-     Main menu
-
-     1   Decrypt .lsa / .lsav files that are on this PC
-     2   Scan a phone over ADB, pull the files and decrypt
-     3   Key tools
-     4   Open the decrypted folder
-     G   Open the guide and source code in your browser
-     H   How to turn on USB debugging
-     Q   Quit
-```
-
 Full guide: [blog.denniskabui.com/writing/decrypting-miui-cloud](https://blog.denniskabui.com/writing/decrypting-miui-cloud)  
 Source and downloads: [github.com/MurageKabui/LSAV-Decryptor](https://github.com/MurageKabui/LSAV-Decryptor)
 
