@@ -2,6 +2,11 @@
 
 Recover the photos (`.lsa`) and videos (`.lsav`) that Xiaomi, Redmi and POCO phones lock away in the Gallery **Secret Album** (MIUI 12 to HyperOS). It's free, works offline, and you just double-click it. There's nothing to install except ADB, and the tool can download ADB for you from Google.
 
+<div align="center">
+  <img src="preview.jpg" alt="" />
+</div>
+
+
 ```
   ┌──────────────────────────────────────────────────────────────┐
   │  LSAV DECRYPTOR                                      v1.1.0  │
